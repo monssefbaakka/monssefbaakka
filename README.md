@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 Currently exploring Python, Java, and Django.<br><br>🚀 Check out my projects on GitHub: github.com/monssefbaakka<br><br>📬 Reach me at: baakkamonssef@gmail.com<br><br>💼 Learn more about my experience on LinkedIn: linkedin.com/in/monssef-baakka-6a9019267
+🌍 Currently exploring Python, Java, and Django.<br><br>🚀 Check out my projects on GitHub: [GitHub](https://github.com/monssefbaakka?tab=repositories)<br><br>📬 Reach me at: baakkamonssef@gmail.com<br><br>💼 Learn more about my experience on LinkedIn: [LinkedIn](https://www.linkedin.com/in/monssef-baakka-6a9019267/)
 
 
 ## 🌐 Socials:
