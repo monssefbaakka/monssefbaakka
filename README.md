@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌍 Currently exploring Python, Java, and Django.<br><br>🚀 Check out my projects on GitHub: [GitHub](https://github.com/monssefbaakka?tab=repositories)<br><br>📬 Reach me at: baakkamonssef@gmail.com<br><br>💼 Learn more about my experience on LinkedIn: [LinkedIn](https://www.linkedin.com/in/monssef-baakka-6a9019267/)
-
+🌍 Currently exploring Python, Java, and Django.<br><br>🚀 Check out my projects on GitHub: [https://github.com/monssefbaakka](https://github.com/monssefbaakka?tab=repositories)<br><br>📬 Reach me at: baakkamonssef@gmail.com<br><br>💼 Learn more about my experience on LinkedIn: [https://www.linkedin.com/in/monssef-baakka-6a9019267/](https://www.linkedin.com/in/monssef-baakka-6a9019267/)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monsseeeeff) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monssef-baakka-6a9019267/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@drogow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:baakkamonssef@gmail.com) 
